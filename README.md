@@ -44,43 +44,69 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack & Tools
 
-### 🧠 **Brainwave - AI Idea Generator** *(July 2025 - Present)*
-> *Built an AI tool to generate creative ideas across domains using NLP.*
-* **Tech:** Python, NLP, Prompt Engineering, APIs.
-* **Features:** Designed a user-friendly interface, implemented prompt handling, and optimized responses for creativity and relevance.
+### **🚀 AI / Machine Learning**
+- Python, NumPy, Pandas, Scikit-learn  
+- TensorFlow / Keras, PyTorch  
+- NLP, Transformers, BERT  
+- LLMs, Multi-Agent Systems  
+- Data Processing, Model Deployment  
 
-### 🛒 **E-Commerce Website** *(July 2025 - Present)*
-> *A comprehensive responsive platform for online shopping.*
-* **Tech:** HTML, CSS, JavaScript, Node.js, PHP, MySQL.
-* **Features:** Product listings, secure authentication, cart system, payment gateway integration, and an admin panel for product management.
+### **🌐 Web Development**
+- HTML, CSS, JavaScript, TypeScript  
+- React.js / Next.js  
+- TailwindCSS  
+- REST APIs, Node.js  
+- Supabase, Firebase  
+- Git, GitHub, Vercel  
 
-### 🖼️ **Image Caption Generator** *(Jan 2025 - Mar 2025)*
-> *Deep learning model for automated image description.*
-* **Tech:** Python, TensorFlow, Keras, CNN, LSTM.
-* **Method:** Utilized CNN for feature extraction and LSTM for generating captions. Trained on the **Flickr8k** dataset.
+### **⚙️ Tools I Use Daily**
+- VS Code  
+- Jupyter Notebooks  
+- Google Colab  
+- Postman  
+- GitHub Projects / Issues  
+- Notion
+  
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light Mode -->
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Suryansh777777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh777777&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkolgire23&show_icons=true&theme=highcontrast" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkolgire23&layout=compact&theme=highcontrast" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sumitkolgire23&theme=highcontrast&no_cache=1" />
+</p>
+
+## 📫 Connect With Me
+
+- 📧 Email: **[BHAGYASHREEMALI1624@gmail.com](mailto:BHAGYASHREEMALI1624@gmail.com)**  
+- 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]
+- 🧠 GitHub: **[github.com/bhagyashreemali](https://github.com/bhagyashreemali)**
 
 ---
 
-## 💼 Professional Experience
 
-| Role | Company | Timeline |
-| :--- | :--- | :--- |
-| **Data Analytics Intern** | **Novitech R&D Pvt. Ltd.** | *July 2025 - Aug 2025* |
-| **Artificial Intelligence Intern** | **My Job Grow (Collab w/ IIT Bombay)** | *Remote* |
-| **Full Stack Dev Intern** | **Novitech R&D Pvt. Ltd.** | *Jan 2024 - Mar 2025* |
-
----
-
-## 📜 Certifications & Achievements
-* 🏅 **Full Stack Development MasterClass** - Novitech R&D Pvt Ltd
-* 🏅 **AI Upskilling Course** - My Job Grow
-* 🏅 **Natural Language Processing (NLP)** - Great Learning
-* 🏅 **Power BI & Excel using AI** - OfficeMaster
-* 🏅 **AI Tools Workshop** - be10X
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhagyashreemali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
