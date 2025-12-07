@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/bhagyashreemali">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/bhagyashreemali">
+    <a href="github.com/bhagyashreemali">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
@@ -49,10 +49,10 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
   </a>
 
   <p>
-    <a href="mailto:bhagyashreemali1624@gmail.com">
+    <a href="BHAGYASHREEMALI1624@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/bhagyashreemali">
+    <a href="[www.linkedin.com/in/bhagyashree-mali]  ">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/bhagyashreemali">
@@ -71,13 +71,12 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 * 📊 **Specialization:** Transforming data into business insights using **Power BI** and **Tableau**.
 * 🚀 **Goal:** Eager to contribute to impactful tech projects in a dynamic environment.
 
----
+## 📊 GitHub Analytics
 
-## 🏆 Career Highlights & Distinctions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashreemali&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
 
-| 🏛️ Academic Collaboration | 🧠 Deep Learning Architect | 📊 Data Storyteller |
-| :--- | :--- | :--- |
-| Worked
+</div>
 
 ## 🚀 Featured Projects
 
@@ -98,18 +97,19 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 - **What it does:** Automatically generates descriptive captions for input images using Deep Learning.
 - **Architecture:** Uses **CNN** (Convolutional Neural Networks) for vision and **LSTM** for text sequence generation.
 - **Tech:** `Python`, `TensorFlow`, `Keras`, `Flickr8k Dataset`
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashreemali&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
-
-</div>
+  
+ ### 🐍 GitHub Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhagyashreemali/bhagyashreemali/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/bhagyashreemali/bhagyashreemali/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## 📫 Connect With Me
 
 - 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
 - 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]  
 - 🧠 GitHub: **github.com/bhagyashreemali**
-
+  
 <h3 align="center">🚀 Mastering Logic • Building the Web • Architecting AI Agents</h3>
