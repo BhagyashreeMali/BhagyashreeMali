@@ -44,13 +44,7 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
 </div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bhagyashree+Mali;AIML+Engineer+%7C+Web+Developer;Building+AI+Tools+%26+Responsive+Apps;Data+Visualization+Expert" alt="Typing SVG" />
-  </a>
-</div>
 
-<br>
 
 ## 🛠 Tech Stack & Arsenal
 
