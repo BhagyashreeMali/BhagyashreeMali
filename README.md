@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhagyashreeMali&repo=REPO-NAME-HERE&theme=dark)](https://github.com/BhagyashreeMali/REPO-NAME-HERE)
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=BhagyashreeMali&color=blueviolet)
 <br><br>
