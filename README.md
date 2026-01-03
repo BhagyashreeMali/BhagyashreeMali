@@ -39,7 +39,7 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BhagyashreeMali&limit=5&theme=dark&combine_all_yearly_contributions=true)HERE)
+![](https://github-contributor-stats.vercel.app/api?username=BhagyashreeMali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=BhagyashreeMali&color=blueviolet)
 <br><br>
