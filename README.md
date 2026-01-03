@@ -43,6 +43,9 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=BhagyashreeMali&color=blueviolet)
 <br><br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhagyashreeMali&bg_color=0d1117&color=8A2BE2&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
