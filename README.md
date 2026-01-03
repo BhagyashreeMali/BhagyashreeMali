@@ -50,7 +50,6 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF7F&center=true&vCenter=true&width=460&lines=⭐+Star+Interesting+Repositories;🤝+Let's+Collaborate;📬+Connect+with+Me+on+LinkedIn" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 📫 Connect With Me
 
 - 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
