@@ -46,7 +46,9 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhagyashreeMali&bg_color=0d1117&color=8A2BE2&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF7F&center=true&vCenter=true&width=460&lines=⭐+Star+Interesting+Repositories;🤝+Let's+Collaborate;📬+Connect+with+Me+on+LinkedIn" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📫 Connect With Me
@@ -56,3 +58,6 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 - 🧠 GitHub: https://github.com/bhagyashreemali
   
 <h3 align="center">🚀 Mastering Logic • Building the Web • Architecting AI Agents</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:8A2BE2&height=6&section=footer" />
+</p>
