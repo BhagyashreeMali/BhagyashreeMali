@@ -33,7 +33,10 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 
 -------
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BhagyashreeMali&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BhagyashreeMali&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -55,8 +58,3 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 - 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
 - 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]  
 - 🧠 GitHub: https://github.com/bhagyashreemali
-  
-<h3 align="center">🚀 Mastering Logic • Building the Web • Architecting AI Agents</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:8A2BE2&height=6&section=footer" />
-</p>
