@@ -27,9 +27,9 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 
 --------
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BhagyashreeMali&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BhagyashreeMali&theme=dark&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_TOKEN)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BhagyashreeMali&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyashreeMali&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyashreeMali&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&token=YOUR_TOKEN)
 
 -------
 ## 🏆 GitHub Trophies
@@ -57,4 +57,4 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
 
 - 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
 - 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali](https://www.linkedin.com/in/bhagyashree-mali)  
-- 🧠 GitHub: [https://github.com/bhagyashreemali](https://github.com/bhagyashreemali)
+- 🧠 GitHub: [https://github.com/BhagyashreeMali](https://github.com/BhagyashreeMali)
