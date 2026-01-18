@@ -8,7 +8,6 @@ AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthus
     alt="Typing Animation"
 />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=header"/>
 </p>
