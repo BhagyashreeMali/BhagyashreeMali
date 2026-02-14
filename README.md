@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Bhagyashree Mali</h1>
-<h3 align="center">
+<h3 align="center"> 
 AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthusiast  
 </h3>
 <p align="center">
